@@ -5,9 +5,9 @@ import TopicCardHeader from "../TopicCardHeader";
 function TopicCard() {
     return (
         <div id="topic-card">
-            <TopicCardHeader/>
-            <TopicCardBody/>
-            <TopicCardActions/>
+            <TopicCardHeader />
+            <TopicCardBody />
+            <TopicCardActions />
         </div>
     )
 }
